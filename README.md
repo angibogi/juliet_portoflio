@@ -2,7 +2,7 @@
 <p> UX & UI DESIGNER </p>
 
 <h2> PORTFOLIO :woman_technologist:  </h2>
-<p> Website: [https://julietzoccali.github.io/juliet_zoccali_portfolio/](https://angibogi.github.io/juliet_portoflio/) </p>
+<p> Website: https://angibogi.github.io/juliet_portoflio/ </p>
 <p> Linkedin: https://www.linkedin.com/in/juliet-zoccali-8a3065226/ </p>
 
 <h2> PROFILE :seedling: </h2>
